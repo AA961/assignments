@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void calculate(int firstNumber, int secondNumber, int oprator)
+void calculate(int firstNumber, int secondNumber, char oprator)
 {
     switch (oprator)
     {

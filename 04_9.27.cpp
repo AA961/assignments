@@ -15,7 +15,6 @@ int main()
 	cout<<"Enter name and population in millions: ";
 	cin>>b.name>>b.pop;
 	fun(a,b);
-	getch();
 }
 
 void fun(Pop x,Pop y)
